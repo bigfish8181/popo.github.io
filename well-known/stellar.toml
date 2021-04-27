@@ -33,3 +33,5 @@ name="POPO COIN"
 desc="POPO COIN IS POPORING GAME'S TOKEN."
 image="http://poporing.tech/popo.png"
 fixed_number=999999999
+conditions="hot"
+status="live"
