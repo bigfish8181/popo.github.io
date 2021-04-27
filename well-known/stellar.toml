@@ -1,0 +1,15 @@
+[DOCUMENTATION]
+ORG_NAME="POPO Inc."
+ORG_URL="http://poporing.tech"
+ORG_DESCRIPTION="POPO Coin Company based on Gibraltar"
+
+[[CURRENCIES]]
+code="POPO"
+issuer="GBDFOFSQIIQNN5IMOLST2X7DKQZ3RNNPPLNKNGJNIKAVTAP33OQDD7EZ"
+display_decimals=7 # Maximum decimal places that can be represented is 7
+image="https://poporing.tech/popo.png"
+name="POPO"
+desc="poporing island forever"
+fixed_number = 999999999
+conditions="hot"
+status="live"
